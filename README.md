@@ -1,4 +1,10 @@
 # EXNO2DS
+
+## CODING AND OUTPUT
+
+### Developed by : Pragadeeswaran L
+### REG.NO : 212223240120
+
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
       
@@ -21,12 +27,6 @@ STEP 6: Use displot method to represent the univariate distribution of data.
 STEP 7: Use cross tabulation method to quantitatively analyze the relationship between multiple variables.
 
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
-
-## CODING AND OUTPUT
-
-### Developed by : Pragadeeswaran L
-### REG.NO : 212223240120
-
 
 ```
 import pandas as pd
